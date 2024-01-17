@@ -13,4 +13,4 @@ Currently, two official plugins are available:
 1. Clone the app or download the zip file.
 2. Install the packages by following the 3rd line.
 3. Open the file and run npm i or npm install on Visual Studio CLI.
-4. Afetr the packages are installed run npm run start on  VS code ClI.
+4. Afetr the packages are installed run npm run dev on  VS code ClI.
